@@ -8,5 +8,6 @@ __Features__:
 + Object Storage and NoSQL
 + RESTful, GraphQL, and gRPC
 + Observability and Monitoring
++ GitLab CI/CD and K8s Integration
 
 Wenex has a wide range of needs in Communication, E-Learning, Online Shopping, Banking, IoT, Crypto, etc.
