@@ -9,5 +9,6 @@ __Features__:
 + RESTful, GraphQL, and gRPC
 + Observability and Monitoring
 + GitLab CI/CD and K8s Integration
++ AI agents integration with MCP [WIP]
 
 Wenex has a wide range of needs in Communication, E-Learning, Online Shopping, Banking, IoT, Crypto, etc.
