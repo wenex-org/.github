@@ -9,6 +9,6 @@ __Features__:
 + RESTful, GraphQL, and gRPC
 + Observability and Monitoring
 + GitLab CI/CD and K8s Integration
-+ AI agents integration with MCP [WIP]
++ AI agents integration over MCP [WIP]
 
 Wenex is a powerful, open-source platform and Free to use under the Apache 2.0 license that has a wide range of needs in Communication, E-Learning, Online Shopping, Banking, IoT, Crypto, etc.
